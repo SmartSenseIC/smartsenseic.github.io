@@ -48,10 +48,10 @@ Como? Os desafios são pensados para serem possíveis de desenvolver utilizando 
 Abaixo segue o link dos desafios desenvolvidos até então com os respectivos dados.
 
 <ul>
-  <li>Desafio I - Classificação de Motos [<a href="https://colab.research.google.com/drive/1w8XIdspbdaYwf58ZDvCQZ1UiR3kGTwyt#scrollTo=TIt1JiNTGfzh">link</a>] [<a href="https://docs.google.com/forms/d/1Uri0iyd0VUZFCjBxbcEhePEh2gIIj_Y4oD7Aw-kQFms/prefill">Dados</a>]</li> 
-  <li>Desafio II - Geração de Tatoos usando Conditional GANs [<a href=" https://colab.research.google.com/drive/1Fd17MwE2cm3VEYqRqeN-D9A6wyc_KhqS">link</a>] []</li> 
+  <li>Desafio I - Classificação de Motos [<a href="https://colab.research.google.com/drive/1w8XIdspbdaYwf58ZDvCQZ1UiR3kGTwyt#scrollTo=TIt1JiNTGfzh">Link</a>] []</li> 
+  <li>Desafio II - Geração de Tatoos usando Conditional GANs [<a href=" https://colab.research.google.com/drive/1Fd17MwE2cm3VEYqRqeN-D9A6wyc_KhqS">Link</a>] []</li> 
   <li>Desafio III - Domain Adaptation MNIST/SVHN [<a href="https://colab.research.google.com/drive/1u79Wkl-utVVMtlUBixImZ6tkZ8XFSIz4">link</a>] [Dados]</li>
-  <li>Desafio IV - Detecção de Motos [<a href="https://colab.research.google.com/drive/14JbvWm505tGzGK6ZU54AP48rERxa9aUQ">link</a>]</li> 
+  <li>Desafio IV - Detecção de Motos [<a href="https://colab.research.google.com/drive/14JbvWm505tGzGK6ZU54AP48rERxa9aUQ">link</a>] [<a href="https://docs.google.com/forms/d/1Uri0iyd0VUZFCjBxbcEhePEh2gIIj_Y4oD7Aw-kQFms/prefill">Dados</a>]</li> 
   <li>Desafio V - Re-Identificação de Pessoas [<a href="">link</a>] [Dados]</li>
 </ul>
 
