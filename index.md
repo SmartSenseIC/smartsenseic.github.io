@@ -2,7 +2,7 @@
 
 Essa página é uma <i> versão beta </i> de um repositório para integrar todo o material disponibilizado aos alunos de Iniciação Científica do grupo de pesquisa Smart Sense da Universidade Federal de Minas Gerais (UFMG). 
 
-<b> Smart Sense </b>. Nosso grupo de pesquisa é liderado pelo Prof. Dr. William Robson Schwartz e é formado por mais de 30 alunos, os quais se encontram em diferentes níveis de formação (iniciação científica, mestrado, doutorado e pós-doutorado). Para maiores informações acesso o nosso <a href="http://smartsenselab.dcc.ufmg.br/">site</a>.
+<b> Smart Sense </b>. Nosso grupo de pesquisa é liderado pelo Prof. Dr. William Robson Schwartz e é formado por mais de 30 alunos, os quais se encontram em diferentes níveis de formação (iniciação científica, mestrado, doutorado e pós-doutorado). Para maiores informações acesse o nosso <a href="http://smartsenselab.dcc.ufmg.br/">site</a>.
 
 <b> Smart Sense - IC </b>. O Smart Sense - IC é um subgrupo de alunos dentro do Smart Sense focado no desenvolvimento de alunos de graduação para atuarem na área de machine learning e visão computacional. Em especial, focamos em alcançar três objetivos com os alunos: (1) desenvolvimento de habilidades, (2) despertar a vocação científica e (3) produzir conhecimento científico.   
 
@@ -24,7 +24,7 @@ De forma a alcançar nossos objetivos, trabalhamos com reuniões semanais, tutor
 
 ### Tutoriais
 
-<b> O quê? </b> Os tutoriais são uma abordagem mais prática para alcançarmos o nosso primeiro objetivo com os alunos. Os tutoriais buscam implementar de uma forma mais simples e didática temas que serão úteis durante a pesquisa científica na qual os alunos estão inseridos. 
+<b>O quê?</b> Os tutoriais são uma abordagem mais prática para alcançarmos o nosso primeiro objetivo com os alunos. Os tutoriais buscam implementar de uma forma mais simples e didática temas que serão úteis durante a pesquisa científica na qual os alunos estão inseridos. 
 
 <b> Como? </b> Os tutorias são desenvolvidos em <b>python</b>. Quando abordam temas relacionados a deep learning (a maioria dos casos), estamos padronizando o framework como sendo o <b>Keras</b>. Além do mais, para garantir o acesso aos recursos computacionais necessários a todos os alunos, usamos o <b>Google Colab</b>. Nesse, o desenvolvimento e execução é realizado na nuvem usando jupyter notebooks.
 
@@ -40,3 +40,7 @@ Abaixo segue a lista de tutoriais disponíveis. Divirtam-se.
 
 
 ### Desafios
+
+O quê? Os desafios estão alinhados com o nosso segundo objetivo: desenvolver a vocação científica nos alunos. Os desafios apresentam algum problema prático e relacionado com os temas elaborados no tutoriais. Assim, os alunos ficam livres de usar sua criatividade para desenvolverem a melhor solução. 
+
+Como? Os desafios são pensados para serem possíveis de desenvolver utilizando o Colab. No mais, os alunos têm a disposição um conjunto de dados para treinar os modelos e um outro conjunto (disjunto do primeiro) é empregado na avaliação dos modelos. Assim, um ranking final dos alunos baseado no desempenho nesse conjunto de teste é realizado. 
