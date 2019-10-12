@@ -15,7 +15,9 @@ Nossas reuniões semanais focam no nosso primeiro objetivo: <b> Desenvolvimento 
 
 As reuniões acontecem todas às sextas-feiras às 9:00 da manhã na sala 2014 do prédio do ICEX - UFMG. Todas as reuniões são filmadas e os conteúdos são disponibilizados no seguintes links.
 
-Person Re-Identification2:
+<b> Person Re-Identification </b>
+
+<a href="https://drive.google.com/open?id=1as-nVjtnvtFbfl2cn04DUCje8cYEyeaq">Slides</a> |<a href="htthttps://drive.google.com/open?id=1VnbK5BZggblyCJEBLYweUmS3ARk7zn4F">Exercícios</a>
 
 <iframe width="500" height="300" src="https://www.youtube.com/embed/idBnUzBfjkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
