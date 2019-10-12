@@ -11,11 +11,11 @@ De forma a alcançar nossos objetivos, trabalhamos com reuniões semanais, tutor
 
 ### Reuniões Semanais
 
-Nossas reuniões semanais focam no nosso primeiro objetivo: <b>Desenvolvimento de Habilidades</b>. Essas habilidades abrangem tanto o conhecimento dos tópicos que trabalhamos quanto a capacidade de elaboração e apresentação dos conteúdos.
+<b> O quê? </b> Nossas reuniões semanais focam no nosso primeiro objetivo: <b>Desenvolvimento de Habilidades</b>. Essas habilidades abrangem tanto o conhecimento teórico dos tópicos que trabalhamos quanto a capacidade de elaboração e apresentação dos conteúdos.
 
-As reuniões acontecem todas às sextas-feiras às 9:00 da manhã na sala 2014 do prédio do ICEX - UFMG. Todas as reuniões são filmadas e os conteúdos são disponibilizados no seguintes links.
+<b> Onde? </b>. As reuniões acontecem todas às sextas-feiras às 9:00 da manhã na sala 2014 do prédio do ICEX - UFMG. Todas as reuniões são filmadas e os conteúdos são disponibilizados no seguintes links.
 
-<b> Person Re-Identification </b>
+<b> [Parte II] Person Re-Identification </b>
 
 <a href="https://drive.google.com/open?id=1as-nVjtnvtFbfl2cn04DUCje8cYEyeaq">Slides</a> 
 <a href="https://drive.google.com/open?id=1VnbK5BZggblyCJEBLYweUmS3ARk7zn4F">Exercícios</a>
@@ -24,22 +24,10 @@ As reuniões acontecem todas às sextas-feiras às 9:00 da manhã na sala 2014 d
 
 ### Tutoriais
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b> O quê? </b> Os tutoriais são uma abordagem mais prática para alcançarmos o nosso primeiro objetivo com os alunos. Os tutoriais buscam implementar de uma forma mais simples e didática temas que serão úteis durante a pesquisa científica na qual os alunos estão inseridos. 
 
-```markdown
-Syntax highlighted code block
+<b> Como? </b> Os tutorias são desenvolvidos em <b>python</b>. Quando abordam temas relacionados a deep learning (a maioria dos casos), estamos padronizando o framework como sendo o <b>Keras</b>.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
