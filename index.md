@@ -17,9 +17,8 @@ As reuniões acontecem todas às sextas-feiras às 9:00 da manhã na sala 2014 d
 
 Person Re-Identification:
 
-<iframe width="420" height="315"
-src="https://youtu.be/idBnUzBfjkQ">
-</iframe>
+<iframe width="560" height="315" src="https://youtu.be/idBnUzBfjkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 ### Tutoriais
