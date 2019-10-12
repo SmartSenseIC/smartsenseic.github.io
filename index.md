@@ -57,5 +57,26 @@ Abaixo segue o link dos desafios desenvolvidos até então com os respectivos da
 
 ## Ranking dos Alunos
 
+O quê? A ideia do ranking dos alunos é ter uma forma de avaliar o desempenho individual dos alunos que seja condizente com o desempenho deles nos tópicos estudados. Dessa forma, temos uma informação a mais na hora de escolher os alunos que estão mais aptos a ganhar as bolsas de iniciação científica e projetos.  
+
+Como funciona? Vamos usar a escala de pontuação da fórmula I em 2019. Ou seja, o primeiro colocado recebe 25 pts, o segundo 18 pts, o terceiro 15 pts, o quarto 12 pts, o quinto 10 pts e assim por diante. Vamos dar 3 pts extras para a solução mais criativa para o problema. 
+
+### Classificação Geral
+
+
+### Classificação por Desafio
+
+#### Classificação de Motos
+
+
+
+#### GANs Tatoos
+
+#### Domain Adaptation
+
+#### Detecção de Motos
+
+#### Re-Identificação de Pessoas
+
 
 
