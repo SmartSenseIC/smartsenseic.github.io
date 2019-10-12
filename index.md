@@ -32,8 +32,8 @@ Abaixo segue a lista de tutoriais disponíveis. Divirtam-se.
 
 <ul>
   <li>Tutorial I - Classificação usando o MNIST [<a href="https://colab.research.google.com/drive/16h0R1tPLay5Y2XARC1Ngx_zqk_whd_eY">link</a>] </li> 
-  <li>Tutorial II - Modelos Generativos Adversariais [<a href=" https://colab.research.google.com/drive/19yEyMVI9VrUw7hRxOiySSsy6Ykf_IXd1">link</a>]</li> 
-  <li>Tutorial III - Domain Adaptation [<a href=" https://colab.research.google.com/drive/1hVhHeabFxyiKW1DJoYXcpsJIvQjeTzzP">link</a>]</li>
+  <li>Tutorial II - Modelos Generativos Adversariais [<a href="https://colab.research.google.com/drive/19yEyMVI9VrUw7hRxOiySSsy6Ykf_IXd1">link</a>]</li> 
+  <li>Tutorial III - Domain Adaptation [<a href="https://colab.research.google.com/drive/1hVhHeabFxyiKW1DJoYXcpsJIvQjeTzzP">link</a>]</li>
   <li>Tutorial IV - Re-Identificação de Pessoas [<a href="https://colab.research.google.com/drive/1jSMiVI-zJQv9XZbeiswxMJyJMl8yAk3Q">link</a>]</li> 
   <li>Tutorial V - Filtro de Kalman [<a href="https://colab.research.google.com/drive/1ldAZhZtGhJV30De27RDY_19ON6Dn44Uw">link</a>] </li>
 </ul>
