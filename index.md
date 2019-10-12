@@ -6,7 +6,7 @@ Essa página é uma <i> versão beta </i> de um repositório para integrar todo 
 
 <b> Smart Sense - IC </b>. O Smart Sense - IC é um subgrupo de alunos dentro do Smart Sense focado no desenvolvimento de alunos de graduação para atuarem na área de machine learning e visão computacional. Em especial, focamos em alcançar três objetivos com os alunos: (1) desenvolvimento de habilidades, (2) despertar a vocação científica e (3) produzir conhecimento científico.   
 
-De forma a alcançar nossos objetivos, trabalhamos com reuniões semanais, tutoriais e desafios. Nessa página, você encontrará os links para os tutoriais, desafios e reuniões desenvolvidas dentro do grupo.
+De forma a alcançar nossos objetivos, trabalhamos com reuniões semanais, tutoriais, desafios e linhas de pesquisa. Nessa página, você encontrará os links para os tutoriais, desafios e reuniões desenvolvidas dentro do grupo.
 
 
 ### Reuniões Semanais
@@ -26,7 +26,7 @@ De forma a alcançar nossos objetivos, trabalhamos com reuniões semanais, tutor
 
 <b> O quê? </b> Os tutoriais são uma abordagem mais prática para alcançarmos o nosso primeiro objetivo com os alunos. Os tutoriais buscam implementar de uma forma mais simples e didática temas que serão úteis durante a pesquisa científica na qual os alunos estão inseridos. 
 
-<b> Como? </b> Os tutorias são desenvolvidos em <b>python</b>. Quando abordam temas relacionados a deep learning (a maioria dos casos), estamos padronizando o framework como sendo o <b>Keras</b>.
+<b> Como? </b> Os tutorias são desenvolvidos em <b>python</b>. Quando abordam temas relacionados a deep learning (a maioria dos casos), estamos padronizando o framework como sendo o <b>Keras</b>. Além do mais, para garantir o acesso aos recursos computacionais necessários a todos os alunos, usamos o <b>Google Colab</b>. Nesse, o desenvolvimento e execução é realizado na nuvem usando jupyter notebooks.
 
 
 [Link](url) and ![Image](src)
