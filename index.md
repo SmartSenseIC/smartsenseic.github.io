@@ -59,22 +59,62 @@ Abaixo segue o link dos desafios desenvolvidos até então com os respectivos da
 
 O quê? A ideia do ranking dos alunos é ter uma forma de avaliar o desempenho individual dos alunos que seja condizente com o desempenho deles nos tópicos estudados. Dessa forma, temos uma informação a mais na hora de escolher os alunos que estão mais aptos a ganhar as bolsas de iniciação científica e projetos.  
 
-Como funciona? Vamos usar a escala de pontuação da fórmula I em 2019. Ou seja, o primeiro colocado recebe 25 pts, o segundo 18 pts, o terceiro 15 pts, o quarto 12 pts, o quinto 10 pts e assim por diante. Vamos dar 3 pts extras para a solução mais criativa para o problema. 
+Como funciona? Vamos usar a escala de pontuação da fórmula I em 2019. Ou seja, o primeiro colocado recebe 25 pts, o segundo 18 pts, o terceiro 15 pts, o quarto 12 pts, o quinto 10 pts e assim por diante. Vamos dar 3 pts extras para a solução mais criativa para o problema (se alguma for considerada criativa). Todos os alunos podem pontuar, independente da época na qual a submissão foi feita. Cada aluno pode submeter apenas um modelo por desafio.
+
+Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem melhor desempenho. Apenas submissões dentro do deadline do desafio são consideradas para a premiação.
 
 ### Classificação Geral
 
 
+
 ### Classificação por Desafio
+
+
 
 #### Classificação de Motos
 
+<table style="width: 206px;">
+<tbody>
+<tr>
+<td style="width: 200px;">Alunos</td>
+<td style="width: 10px;">&nbsp;Acur&aacute;cia</td>
+<td style="width: 15px;">&nbsp;Pontua&ccedil;&atilde;o</td>
+<td style="width: 15px;">Extra</td>
+</tr>
+<tr>
+<td style="width: 200px;">&nbsp;Augusto Maillo</td>
+<td style="width: 10px;">&nbsp; 86% </td>
+<td style="width: 15px;">&nbsp; 15</td>
+<td style="width: 15px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 200px;">&nbsp;Thales Fernandes&nbsp;</td>
+<td style="width: 10px;">&nbsp; 89% </td>
+<td style="width: 15px;">&nbsp; 18</td>
+<td style="width: 15px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 200px;">&nbsp;Jo&atilde;o Pedro</td>
+<td style="width: 10px;">&nbsp; 92%</td>
+<td style="width: 15px;">&nbsp; 25</td>
+<td style="width: 15px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- DivTable.com -->
 
 
 #### GANs Tatoos
 
+
+
 #### Domain Adaptation
 
+
+
 #### Detecção de Motos
+
+
 
 #### Re-Identificação de Pessoas
 
