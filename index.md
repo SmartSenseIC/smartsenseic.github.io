@@ -65,6 +65,42 @@ Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem m
 
 ### Classificação Geral
 
+<table style="width: 206px;">
+<tbody>
+<tr style="height: 23px;">
+<td style="width: 200px; height: 23px;">Alunos</td>
+<td style="width: 10px; height: 23px;">&nbsp;Pontua&ccedil;&atilde;o</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">Augusto Maillo</td>
+<td style="width: 10px; height: 43px;">&nbsp;40</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">Daniel Barreto</td>
+<td style="width: 10px; height: 43px;">&nbsp;</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">Jo&atilde;o Pedro</td>
+<td style="width: 10px; height: 43px;">25</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">Johnata Brayan</td>
+<td style="width: 10px; height: 43px;">&nbsp;</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">Lucca Augusto</td>
+<td style="width: 10px; height: 43px;">&nbsp;</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">Misael Rezende</td>
+<td style="width: 10px; height: 43px;">&nbsp;</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">Thales Fernandes</td>
+<td style="width: 10px; height: 43px;">36</td>
+</tr>
+</tbody>
+</table>
 
 
 ### Classificação por Desafio
@@ -101,11 +137,28 @@ Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem m
 </tr>
 </tbody>
 </table>
-<!-- DivTable.com -->
-
 
 #### GANs Tatoos
 
+<table style="width: 206px;">
+<tbody>
+<tr style="height: 23px;">
+<td style="width: 200px; height: 23px;">Alunos</td>
+<td style="width: 10px; height: 23px;">&nbsp;Pontua&ccedil;&atilde;o</td>
+<td style="width: 15px; height: 23px;">&nbsp;Extra</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">&nbsp;Augusto Maillo</td>
+<td style="width: 10px; height: 43px;">&nbsp;25</td>
+<td style="width: 15px; height: 43px;">&nbsp;</td>
+</tr>
+<tr style="height: 43px;">
+<td style="width: 200px; height: 43px;">&nbsp;Thales Fernandes&nbsp;</td>
+<td style="width: 10px; height: 43px;">&nbsp;18</td>
+<td style="width: 15px; height: 43px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 
 #### Domain Adaptation
