@@ -31,11 +31,11 @@ De forma a alcançar nossos objetivos, trabalhamos com reuniões semanais, tutor
 Abaixo segue a lista de tutoriais disponíveis. Divirtam-se.
 
 <ul>
-  <li>Tutorial I - Classificação usando o MNIST [link] </li>
+  <li>Tutorial I - Classificação usando o MNIST [<a href="https://colab.research.google.com/drive/16h0R1tPLay5Y2XARC1Ngx_zqk_whd_eY">link</a>] </li> 
   <li>Tutorial II - Modelos Generativos Adversariais [link]</li>
   <li>Tutorial III - Domain Adaptation [link]</li>
-  <li>Tutorial IV - Re-Identificação de Pessoas [link]</li>
-  <li>Tutorial V - Filtro de Kalman [<a href="https://colab.research.google.com/drive/1ldAZhZtGhJV30De27RDY_19ON6Dn44Uw">Link</a>] </li>
+  <li>Tutorial IV - Re-Identificação de Pessoas [<a href="https://colab.research.google.com/drive/1jSMiVI-zJQv9XZbeiswxMJyJMl8yAk3Q">link</a>]</li> 
+  <li>Tutorial V - Filtro de Kalman [<a href="https://colab.research.google.com/drive/1ldAZhZtGhJV30De27RDY_19ON6Dn44Uw">link</a>] </li>
 </ul>
 
 
