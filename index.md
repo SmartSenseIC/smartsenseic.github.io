@@ -50,9 +50,9 @@ Abaixo segue o link dos desafios desenvolvidos até então com os respectivos da
 <ul>
   <li>Desafio I - Classificação de Motos [<a href="https://colab.research.google.com/drive/1w8XIdspbdaYwf58ZDvCQZ1UiR3kGTwyt#scrollTo=TIt1JiNTGfzh">Link</a>] [<a href="https://forms.gle/XFNbSfhWoDBpQniu8">Dados</a>]</li> 
   <li>Desafio II - Geração de Tatoos usando Conditional GANs [<a href="https://colab.research.google.com/drive/1Fd17MwE2cm3VEYqRqeN-D9A6wyc_KhqS">Link</a>] [<a href="https://forms.gle/a8gWs1XwQGY9ygvo6">Dados</a>]</li> 
-  <li>Desafio III - Domain Adaptation MNIST/SVHN [<a href="https://colab.research.google.com/drive/1u79Wkl-utVVMtlUBixImZ6tkZ8XFSIz4">link</a>]</li>
+  <li>Desafio III - Domain Adaptation MNIST/SVHN [<a href="https://colab.research.google.com/drive/1u79Wkl-utVVMtlUBixImZ6tkZ8XFSIz4">Link</a>]</li>
   <li>Desafio IV - Detecção de Motos [<a href="https://colab.research.google.com/drive/14JbvWm505tGzGK6ZU54AP48rERxa9aUQ">link</a>] [<a href="https://forms.gle/hJSc8BYNUjpMsD7G6">Dados</a>]</li> 
-  <li>Desafio V - Re-Identificação de Pessoas [<a href="">link</a>]</li>
+  <li>Desafio V - Re-Identificação de Pessoas [<a href="">Link</a>]</li>
 </ul>
 
 ## Ranking dos Alunos
