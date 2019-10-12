@@ -44,3 +44,15 @@ Abaixo segue a lista de tutoriais disponíveis. Divirtam-se.
 O quê? Os desafios estão alinhados com o nosso segundo objetivo: desenvolver a vocação científica nos alunos. Os desafios apresentam algum problema prático e relacionado com os temas elaborados no tutoriais. Assim, os alunos ficam livres de usar sua criatividade para desenvolverem a melhor solução. 
 
 Como? Os desafios são pensados para serem possíveis de desenvolver utilizando o Colab. No mais, os alunos têm a disposição um conjunto de dados para treinar os modelos e um outro conjunto (disjunto do primeiro) é empregado na avaliação dos modelos. Assim, um ranking final dos alunos baseado no desempenho nesse conjunto de teste é realizado. 
+
+Abaixo segue o link dos desafios desenvolvidos até então com os respectivos dados.
+
+<ul>
+  <li>Desafio I - Classificação de Motos [<a href="https://colab.research.google.com/drive/1w8XIdspbdaYwf58ZDvCQZ1UiR3kGTwyt#scrollTo=TIt1JiNTGfzh">link</a>] [Dados]</li> 
+  <li>Desafio II - Geração de Tatoos usando Conditional GANs [<a href=" https://colab.research.google.com/drive/1Fd17MwE2cm3VEYqRqeN-D9A6wyc_KhqS">link</a>] [Dados]</li> 
+  <li>Desafio III - Domain Adaptation MNIST/SVHN [<a href="https://colab.research.google.com/drive/1u79Wkl-utVVMtlUBixImZ6tkZ8XFSIz4">link</a>] [Dados]</li>
+  <li>Desafio IV - Detecção de Motos [<a href="https://colab.research.google.com/drive/14JbvWm505tGzGK6ZU54AP48rERxa9aUQ">link</a>]</li> 
+  <li>Desafio V - Re-Identificação de Pessoas [<a href="">link</a>] [Dados]</li>
+</ul>
+
+
