@@ -28,16 +28,12 @@ De forma a alcançar nossos objetivos, trabalhamos com reuniões semanais, tutor
 
 <b> Como? </b> Os tutorias são desenvolvidos em <b>python</b>. Quando abordam temas relacionados a deep learning (a maioria dos casos), estamos padronizando o framework como sendo o <b>Keras</b>. Além do mais, para garantir o acesso aos recursos computacionais necessários a todos os alunos, usamos o <b>Google Colab</b>. Nesse, o desenvolvimento e execução é realizado na nuvem usando jupyter notebooks.
 
+Abaixo segue a lista de tutoriais disponíveis. Divirtam-se.
 
-[Link](url) and ![Image](src)
-```
+Tutorial I - Classificação usando o MNIST [link] 
+Tutorial II - Modelos Generativos Adversariais [link]
+Tutorial III - Domain Adaptation [link]
+Tutorial IV - Re-Identificação de Pessoas [link]
+Tutorial V - Filtro de Kalman [<a href="https://colab.research.google.com/drive/1ldAZhZtGhJV30De27RDY_19ON6Dn44Uw">Link/a>] 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SmartSenseIC/smartsenseic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Desafios
