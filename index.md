@@ -6,7 +6,21 @@ Essa página é uma <i> versão beta </i> de um repositório para integrar todo 
 
 <b> Smart Sense - IC </b>. O Smart Sense - IC é um subgrupo de alunos dentro do Smart Sense focado no desenvolvimento de alunos de graduação para atuarem na área de machine learning e visão computacional. Em especial, focamos em alcançar três objetivos com os alunos: (1) desenvolvimento de habilidades, (2) despertar a vocação científica e (3) produzir conhecimento científico.   
 
-Você encontrará aqui os links para os tutoriais e desafios propostos aos alunos de IC.
+De forma a alcançar nossos objetivos, trabalhamos com reuniões semanais, tutoriais e desafios. Nessa página, você encontrará os links para os tutoriais, desafios e reuniões desenvolvidas dentro do grupo.
+
+
+### Reuniões Semanais
+
+Nossas reuniões semanais focam no nosso primeiro objetivo: <b> Desenvolvimento de Habilidades </b>. Essas habilidades abrangem tanto o conhecimento dos tópicos que trabalhamos quanto a capacidade de elaboração e apresentação dos conteúdos.
+
+As reuniões acontecem todas às sextas-feiras às 9:00 da manhã na sala 2014 do prédio do ICEX - UFMG. Todas as reuniões são filmadas e os conteúdos são disponibilizados no seguintes links.
+
+Person Re-Identification:
+
+<iframe width="420" height="315"
+src="https://youtu.be/idBnUzBfjkQ">
+</iframe>
+
 
 ### Tutoriais
 
