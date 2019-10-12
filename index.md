@@ -1,6 +1,10 @@
 ## Smart Sense - IC
 
-Essa página é uma versão beta de um repositório para integrar todo o material disponibilizado aos alunos de Iniciação Científica do grupo de pesquisa Smart Sense da Universidade Federal de Minas Gerais (UFMG). Nosso grupo de pesquisa é liderado pelo Prof. Dr. William Robson Schwartz e é formado por mais de 30 alunos, os quais se encontram em diferentes níveis de formação (iniciação científica, mestrado, doutorado e pós-doutorado). Para maiores informações acesso o nosso site (<link>http://smartsenselab.dcc.ufmg.br/<link>).
+Essa página é uma <i> versão beta </i> de um repositório para integrar todo o material disponibilizado aos alunos de Iniciação Científica do grupo de pesquisa Smart Sense da Universidade Federal de Minas Gerais (UFMG). 
+
+<b> Smart Sense </b>. Nosso grupo de pesquisa é liderado pelo Prof. Dr. William Robson Schwartz e é formado por mais de 30 alunos, os quais se encontram em diferentes níveis de formação (iniciação científica, mestrado, doutorado e pós-doutorado). Para maiores informações acesso o nosso site (<link>http://smartsenselab.dcc.ufmg.br/</link>).
+
+<b> Smart Sense - IC </b>. O Smart Sense - IC é um subgrupo de alunos dentro do Smart Sense focado no desenvolvimento de alunos de graduação para atuarem na área de machine learning e visão computacional. Em especial, focamos em alcançar três objetivos com os alunos: (1) desenvolvimento de habilidades, (2) despertar a vocação científica e (3) produzir conhecimento científico.   
 
 Você encontrará aqui os links para os tutoriais e desafios propostos aos alunos de IC.
 
