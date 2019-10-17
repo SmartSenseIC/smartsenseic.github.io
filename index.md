@@ -93,7 +93,7 @@ Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem m
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Misael Rezende</td>
-<td style="width: 10px; height: 43px;">&nbsp;</td>
+<td style="width: 10px; height: 43px;">12</td>
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Thales Fernandes</td>
@@ -116,6 +116,12 @@ Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem m
 <td style="width: 10px;">&nbsp;Acur&aacute;cia</td>
 <td style="width: 15px;">&nbsp;Pontua&ccedil;&atilde;o</td>
 <td style="width: 15px;">Extra</td>
+</tr>
+<tr>
+<td style="width: 200px;">&nbsp;Misael Rezende</td>
+<td style="width: 10px;">&nbsp; 85% </td>
+<td style="width: 15px;">&nbsp; 12</td>
+<td style="width: 15px;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 200px;">&nbsp;Augusto Maillo</td>
