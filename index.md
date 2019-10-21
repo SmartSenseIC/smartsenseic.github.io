@@ -73,7 +73,7 @@ Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem m
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Augusto Maillo</td>
-<td style="width: 10px; height: 43px;">&nbsp;40</td>
+<td style="width: 10px; height: 43px;">&nbsp;37</td>
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Daniel Barreto</td>
@@ -81,7 +81,7 @@ Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem m
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Jo&atilde;o Pedro</td>
-<td style="width: 10px; height: 43px;">25</td>
+<td style="width: 10px; height: 43px;">18</td>
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Johnata Brayan</td>
@@ -89,15 +89,15 @@ Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem m
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Lucca Augusto</td>
-<td style="width: 10px; height: 43px;">&nbsp;</td>
+<td style="width: 10px; height: 43px;">25</td>
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Misael Rezende</td>
-<td style="width: 10px; height: 43px;">12</td>
+<td style="width: 10px; height: 43px;">10</td>
 </tr>
 <tr style="height: 43px;">
 <td style="width: 200px; height: 43px;">Thales Fernandes</td>
-<td style="width: 10px; height: 43px;">36</td>
+<td style="width: 10px; height: 43px;">33</td>
 </tr>
 </tbody>
 </table>
@@ -118,26 +118,32 @@ Prêmios. Quando possível, vamos atribuir prêmios para os alunos que tiverem m
 <td style="width: 15px;">Extra</td>
 </tr>
 <tr>
-<td style="width: 200px;">&nbsp;Misael Rezende</td>
+<td style="width: 200px;">&nbsp;Misael Rezende&nbsp;</td>
 <td style="width: 10px;">&nbsp; 85% </td>
-<td style="width: 15px;">&nbsp; 12</td>
+<td style="width: 15px;">&nbsp; 10</td>
 <td style="width: 15px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 200px;">&nbsp;Augusto Maillo</td>
+<td style="width: 200px;">&nbsp;Augusto Maillo&nbsp;</td>
 <td style="width: 10px;">&nbsp; 86% </td>
-<td style="width: 15px;">&nbsp; 15</td>
+<td style="width: 15px;">&nbsp; 12</td>
 <td style="width: 15px;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 200px;">&nbsp;Thales Fernandes&nbsp;</td>
 <td style="width: 10px;">&nbsp; 89% </td>
-<td style="width: 15px;">&nbsp; 18</td>
+<td style="width: 15px;">&nbsp; 15</td>
 <td style="width: 15px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 200px;">&nbsp;Jo&atilde;o Pedro</td>
+<td style="width: 200px;">&nbsp;Jo&atilde;o Pedro&nbsp;</td>
 <td style="width: 10px;">&nbsp; 92%</td>
+<td style="width: 15px;">&nbsp; 28</td>
+<td style="width: 15px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 200px;">&nbsp;Lucca Augusto&nbsp;</td>
+<td style="width: 10px;">&nbsp; 99%</td>
 <td style="width: 15px;">&nbsp; 25</td>
 <td style="width: 15px;">&nbsp;</td>
 </tr>
